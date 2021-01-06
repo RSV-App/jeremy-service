@@ -27,7 +27,7 @@
     "dockerstart": "node ./database/seed.js && node ./server/server.js"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "babel-plugin-react-css-modules": "^5.2.6",
     "cors": "^2.8.5",
     "express": "^4.16.4",
